@@ -1,4 +1,4 @@
-# do while
+# DoWhile
 ## 程式碼
 ```
 void DOWHILE() {
