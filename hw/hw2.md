@@ -54,7 +54,7 @@ else if(tk == Do){    //do語句
       *++e = BNZ; //判斷式不等於0
       *++e = (int)a;
     }else{
-      printf("%d: synatx error\n",line);// 語法錯誤，回報error
+      printf("%d: synatx error\n",line);// 當語法錯誤，回報error
       exit(-1);
     }
   }
